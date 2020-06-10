@@ -30,7 +30,7 @@ Norse comes packed with a few example tasks, such as [MNIST](https://en.wikipedi
 ```bash
 python -m norse.task.mnist
 ```
-You can also run one of the [jupyter notebooks](notebooks/) on google collab.
+You can also run one of the [jupyter notebooks](https://github.com/norse/notebooks/notebooks) on google collab.
 
 
 ## 2. Getting Started
